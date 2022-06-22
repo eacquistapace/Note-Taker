@@ -16,6 +16,9 @@
 ---
 This app uses Express.js to retrieve data from a JSON file in order to create, save, and delete notes made by a user. The user is first presented with a landing page with a link to the notes page. After clicking that link, the user is then able to create their notes with a title and description. The app is deployed through Heroku, which you can find the link listed in the 'About' section of this repository.
 
+![Note-taker-landing-screenshot](https://user-images.githubusercontent.com/104277073/175117897-7975c0bc-3c09-4534-a697-7e08a580a58d.jpg)
+![Note-taker-main-screenshot](https://user-images.githubusercontent.com/104277073/175117898-6d80775b-6b2f-44bf-a839-5b0c603df1c0.jpg)
+    
 ## Installation
 ---
 'npm init -y'
